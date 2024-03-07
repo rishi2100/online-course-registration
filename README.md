@@ -1,4 +1,4 @@
-Installation/Setup
+---------------------- Installation/Setup -----------------------
 
 Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
 
